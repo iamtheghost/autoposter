@@ -1,13 +1,15 @@
 # Easy Python Autoposter
 
-    This is a quick script to illustrate a proof of concept for automatically posting content into Facebook groups can be achieved using Selenium WebDriver and Python. This is a simple script I wrote in a few minutes just to illustrate the possibilities.
+### Author: Jordan Whiteman
+
+This is a quick script to illustrate a proof of concept for automatically posting content into Facebook groups can be achieved using Selenium WebDriver and Python. This is a simple script I wrote in a few minutes just to illustrate the possibilities.
 
 # Index
  - [About](#about)
  - [Potential Usecases](#potential-usecases)
  - [Prerequisites](#prerequisites)
  - [Getting Started](#getting-started)
- - [Future Considerations]
+ - [Future Considerations](#future-considerations)
 
 ## About
 
